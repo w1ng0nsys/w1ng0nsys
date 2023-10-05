@@ -6,7 +6,7 @@
 ```bash
 w1ng0nsys@github:~$ cat ./userinfo.py
 #!/usr/bin/python
-class Developer:
+class myself:
     def __init__(self):
         self.username = "W1NG0NSYS"
         self.country = "PORTUGAL"
