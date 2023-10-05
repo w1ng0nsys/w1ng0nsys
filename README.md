@@ -28,7 +28,8 @@ class myself:
 
 <h3>CYBER-SECURITY</h3>
 <div align="left">
-  <a target="_blank" href="https://tryhackme.com/p/w1ng0nsys"><img src="https://tryhackme-badges.s3.amazonaws.com/w1ng0nsys.png" alt="TryHackMe"></a>
+  <!--<script src="https://tryhackme.com/badge/2293618"></script>-->  
+  <img src="https://tryhackme-badges.s3.amazonaws.com/w1ng0nsys.png" alt="TryHackMe">
   <!-- TryHackMe Badges -->
 </div>
 
